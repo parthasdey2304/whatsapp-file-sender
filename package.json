@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-file-sender",
+  "version": "1.0.0",
+  "description": "This is a place where we can write messages and send files and that would be send to multiple people over whatsapp individually??",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
